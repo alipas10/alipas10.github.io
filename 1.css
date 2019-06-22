@@ -1,0 +1,23 @@
+*{margin: 0; padding: 0;}
+
+nav.navbar.navbar-light.bg-faded.navbar-fixed-top {
+    background: white;
+}
+
+li.nav-item.active {
+    margin: 0;
+    padding: 0;
+    margin: 0 17px;
+}
+
+a.nav-link {
+    color: #101010;
+    line-height: 32Px;
+}
+
+a.nav-link {
+    font-sizeont: 13px;
+    font-family: segoe ui;
+    text-transformtra: uppercase;
+    
+} 
